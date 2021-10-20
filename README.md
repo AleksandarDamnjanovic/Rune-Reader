@@ -1,6 +1,6 @@
-How to compile?
+### How to compile?
 
-    	g++ -g main.cpp SingleRune.cpp WyrdRune.cpp -o rreader.bin -lsfml-graphics -lsfml-window -lsfml-system
+    	`g++ -g main.cpp SingleRune.cpp WyrdRune.cpp -o rreader.bin -lsfml-graphics -lsfml-window -lsfml-system`
 
 This application is build in c++ with help of sfml libraries.
 
